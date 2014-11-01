@@ -1,4 +1,4 @@
-source: .
+source: ./openptv.github.com/
 destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
@@ -10,9 +10,6 @@ keep_files:  ['.git', '.svn']
 safe: true
 lsi: false
 pygments: true
-
-
-baseurl: http://alexlib.github.com/openptv.github.com/
 
 
 redcloth:
